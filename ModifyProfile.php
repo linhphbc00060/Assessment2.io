@@ -11,7 +11,7 @@
 
 <?php
     if(isset($_POST['modifyBtn'])){
-        $fullname = $_POST['fullname'];
+        $fullname = $_POST['fullname']
         $password = $_POST['password'];
         $password2 = $_POST['password2'];
         $address = $_POST['address'];
